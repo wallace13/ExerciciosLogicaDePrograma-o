@@ -89,3 +89,8 @@ Obs: A fórmula da área é A = π * r² . Considere o valor de π = 3,14
 - Fazer um algoritmo que pergunte os valores dos catetos de um triângulo retângulo e apresente o valor da hipotenusa.Obs: A fórmula é:
 
 - hipotenusa² = cateto1² + cateto2² ou, se preferir, hipotenusa √( cateto1² + cateto2²).
+
+
+### Exercício 10:
+
+- Desenvolver um programa que pergunte ao usuário um número, e apresente como resposta se o referido número é múltiplo de 10. Fazer obrigatoriamente com programação com múltipla escolha.
