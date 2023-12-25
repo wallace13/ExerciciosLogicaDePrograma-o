@@ -1,5 +1,4 @@
 <?php
-
 echo "Digite um Número para a Base: ";
 $b = floatval(trim(fgets(STDIN)));
 echo "Digite um Número para o Expoente: ";
@@ -16,5 +15,4 @@ if ($e == 0) {
     }	while($i < $e); 
 }
 echo "{$b} Elevado à {$e} = {$x}";
-
 ?>

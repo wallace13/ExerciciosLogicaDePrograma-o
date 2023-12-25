@@ -70,4 +70,4 @@ menu de opções.
 
 ### Exercício 06:
 
-- 
+- Desenvolver um programa que pergunte cinco elementos de um vetor a. No final, apresente a soma de todos os elementos deste vetor.

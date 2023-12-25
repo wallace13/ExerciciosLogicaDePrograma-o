@@ -30,5 +30,6 @@ public class Exercicio05 {
         default:
             System.out.println("Opção não existe no Menu");
         }
+        scanner.close();
     }
 }
