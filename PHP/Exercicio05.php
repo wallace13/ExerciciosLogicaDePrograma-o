@@ -1,6 +1,6 @@
 <?php
-echo("Codigo - Opção\n");
-echo("1 - Incluir\n2 - Alterar\n3 - Excluir\n4 - Pesquisar\n5 - Sair\n");
+echo "Codigo - Opção\n";
+echo "1 - Incluir\n2 - Alterar\n3 - Excluir\n4 - Pesquisar\n5 - Sair\n";
 
 echo "Informe o número do seu codigo: ";
 
