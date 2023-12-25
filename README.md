@@ -83,3 +83,9 @@ Obs: A fórmula da área é A = π * r² . Considere o valor de π = 3,14
 - a) O próprio número
 - b) O quadrado deste número
 - c) A raiz quadrada deste número
+
+### Exercício 09:
+
+- Fazer um algoritmo que pergunte os valores dos catetos de um triângulo retângulo e apresente o valor da hipotenusa.Obs: A fórmula é:
+
+- hipotenusa² = cateto1² + cateto2² ou, se preferir, hipotenusa √( cateto1² + cateto2²).
