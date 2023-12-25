@@ -71,3 +71,8 @@ menu de opções.
 ### Exercício 06:
 
 - Desenvolver um programa que pergunte cinco elementos de um vetor a. No final, apresente a soma de todos os elementos deste vetor.
+
+### Exercício 07:
+
+- Elaborar um programa de computador que pergunte ao usuário o valor do Raio de um círculo e calcule a área do referido círculo, apresentando o resultado deste cálculo.
+Obs: A fórmula da área é A = π * r² . Considere o valor de π = 3,14
