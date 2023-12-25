@@ -76,3 +76,10 @@ menu de opções.
 
 - Elaborar um programa de computador que pergunte ao usuário o valor do Raio de um círculo e calcule a área do referido círculo, apresentando o resultado deste cálculo.
 Obs: A fórmula da área é A = π * r² . Considere o valor de π = 3,14
+
+### Exercício 08:
+
+- Fazer um algoritmo que pergunte 1 número e apresente:
+- a) O próprio número
+- b) O quadrado deste número
+- c) A raiz quadrada deste número
